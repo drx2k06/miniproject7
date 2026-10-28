@@ -1,0 +1,65 @@
+student_id,student_name,class_section,semester,subject,marks,attendance_percentage
+STU101,Aarav Sharma,CS-A,Semester 3,Data Structures,88.5,92.0
+STU101,Aarav Sharma,CS-A,Semester 3,Database Systems,76.0,88.0
+STU101,Aarav Sharma,CS-A,Semester 3,Mathematics III,82.0,90.0
+STU101,Aarav Sharma,CS-A,Semester 3,Computer Networks,79.5,85.0
+STU102,Diya Patel,CS-A,Semester 3,Data Structures,64.0,78.0
+STU102,Diya Patel,CS-A,Semester 3,Database Systems,58.5,72.0
+STU102,Diya Patel,CS-A,Semester 3,Mathematics III,42.0,68.0
+STU102,Diya Patel,CS-A,Semester 3,Computer Networks,55.0,74.0
+STU103,Rohan Verma,CS-A,Semester 3,Data Structures,38.0,62.0
+STU103,Rohan Verma,CS-A,Semester 3,Database Systems,44.0,65.0
+STU103,Rohan Verma,CS-A,Semester 3,Mathematics III,32.5,58.0
+STU103,Rohan Verma,CS-A,Semester 3,Computer Networks,41.0,60.0
+STU104,Ananya Iyer,CS-A,Semester 3,Data Structures,94.0,96.0
+STU104,Ananya Iyer,CS-A,Semester 3,Database Systems,91.5,95.0
+STU104,Ananya Iyer,CS-A,Semester 3,Mathematics III,89.0,94.0
+STU104,Ananya Iyer,CS-A,Semester 3,Computer Networks,95.0,98.0
+STU105,Kabir Singh,CS-A,Semester 3,Data Structures,52.0,80.0
+STU105,Kabir Singh,CS-A,Semester 3,Database Systems,49.0,82.0
+STU105,Kabir Singh,CS-A,Semester 3,Mathematics III,39.0,76.0
+STU105,Kabir Singh,CS-A,Semester 3,Computer Networks,61.0,84.0
+STU106,Sneha Kulkarni,CS-B,Semester 3,Data Structures,72.0,85.0
+STU106,Sneha Kulkarni,CS-B,Semester 3,Database Systems,68.0,81.0
+STU106,Sneha Kulkarni,CS-B,Semester 3,Mathematics III,74.5,89.0
+STU106,Sneha Kulkarni,CS-B,Semester 3,Computer Networks,70.0,83.0
+STU107,Vikram Reddy,CS-B,Semester 3,Data Structures,45.0,59.0
+STU107,Vikram Reddy,CS-B,Semester 3,Database Systems,37.0,54.0
+STU107,Vikram Reddy,CS-B,Semester 3,Mathematics III,35.0,52.0
+STU107,Vikram Reddy,CS-B,Semester 3,Computer Networks,48.0,61.0
+STU108,Meera Nair,CS-B,Semester 3,Data Structures,83.0,91.0
+STU108,Meera Nair,CS-B,Semester 3,Database Systems,86.0,93.0
+STU108,Meera Nair,CS-B,Semester 3,Mathematics III,80.0,88.0
+STU108,Meera Nair,CS-B,Semester 3,Computer Networks,84.5,90.0
+STU109,Arjun Gupta,CS-B,Semester 3,Data Structures,62.0,70.0
+STU109,Arjun Gupta,CS-B,Semester 3,Database Systems,65.0,73.0
+STU109,Arjun Gupta,CS-B,Semester 3,Mathematics III,58.0,71.0
+STU109,Arjun Gupta,CS-B,Semester 3,Computer Networks,60.5,69.0
+STU110,Pooja Hegde,CS-B,Semester 3,Data Structures,77.0,88.0
+STU110,Pooja Hegde,CS-B,Semester 3,Database Systems,80.0,89.0
+STU110,Pooja Hegde,CS-B,Semester 3,Mathematics III,71.5,84.0
+STU110,Pooja Hegde,CS-B,Semester 3,Computer Networks,75.0,86.0
+STU201,Kavya Menon,CS-A,Semester 4,Operating Systems,85.0,90.0
+STU201,Kavya Menon,CS-A,Semester 4,Software Engineering,89.0,92.0
+STU201,Kavya Menon,CS-A,Semester 4,Theory of Computation,78.5,88.0
+STU201,Kavya Menon,CS-A,Semester 4,Microprocessors,81.0,86.0
+STU202,Nikhil Das,CS-A,Semester 4,Operating Systems,58.0,74.0
+STU202,Nikhil Das,CS-A,Semester 4,Software Engineering,62.0,77.0
+STU202,Nikhil Das,CS-A,Semester 4,Theory of Computation,46.0,71.0
+STU202,Nikhil Das,CS-A,Semester 4,Microprocessors,53.0,75.0
+STU203,Ritu Choudhary,CS-A,Semester 4,Operating Systems,34.0,55.0
+STU203,Ritu Choudhary,CS-A,Semester 4,Software Engineering,41.0,63.0
+STU203,Ritu Choudhary,CS-A,Semester 4,Theory of Computation,31.0,51.0
+STU203,Ritu Choudhary,CS-A,Semester 4,Microprocessors,36.5,58.0
+STU204,Tanmay Roy,CS-B,Semester 4,Operating Systems,91.0,94.0
+STU204,Tanmay Roy,CS-B,Semester 4,Software Engineering,93.5,96.0
+STU204,Tanmay Roy,CS-B,Semester 4,Theory of Computation,88.0,91.0
+STU204,Tanmay Roy,CS-B,Semester 4,Microprocessors,90.0,95.0
+STU205,Ishaan Joshi,CS-B,Semester 4,Operating Systems,49.0,79.0
+STU205,Ishaan Joshi,CS-B,Semester 4,Software Engineering,54.0,81.0
+STU205,Ishaan Joshi,CS-B,Semester 4,Theory of Computation,43.0,75.0
+STU205,Ishaan Joshi,CS-B,Semester 4,Microprocessors,48.5,78.0
+STU206,Priya Sen,CS-B,Semester 4,Operating Systems,73.0,87.0
+STU206,Priya Sen,CS-B,Semester 4,Software Engineering,76.5,89.0
+STU206,Priya Sen,CS-B,Semester 4,Theory of Computation,69.0,84.0
+STU206,Priya Sen,CS-B,Semester 4,Microprocessors,71.0,85.0
